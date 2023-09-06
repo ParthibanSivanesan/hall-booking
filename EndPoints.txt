@@ -1,0 +1,22 @@
+1)//Room Info
+    /room/all
+
+
+2)//Room Add
+    /room/add
+
+
+3)//Room Booking
+    /booking/new
+
+
+4)//Booking Details
+    /booking/details
+
+
+5)//CX Details
+    /customer-details
+
+
+6)//No of times Cx booked the room
+    /booking/count-cx
