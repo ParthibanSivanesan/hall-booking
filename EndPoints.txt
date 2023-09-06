@@ -1,22 +1,22 @@
 1)//Room Info
-    /room/all
+    https://hall-booking-api-kcmt.onrender.com/room/all
 
 
 2)//Room Add
-    /room/add
+    https://hall-booking-api-kcmt.onrender.com/room/add
 
 
 3)//Room Booking
-    /booking/new
+    https://hall-booking-api-kcmt.onrender.com/booking/new
 
 
 4)//Booking Details
-    /booking/details
+    https://hall-booking-api-kcmt.onrender.com/booking/details
 
 
 5)//CX Details
-    /customer-details
+    https://hall-booking-api-kcmt.onrender.com/customer-details
 
 
 6)//No of times Cx booked the room
-    /booking/count-cx
+    https://hall-booking-api-kcmt.onrender.com/booking/count-cx
